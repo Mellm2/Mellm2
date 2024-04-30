@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### Meu nome é Mel
+### Estou estudando no Alura 
+### utilizo esse espaço para organização dos meus prohetos desenvolvidos 
 <!--
 **Mellm2/Mellm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
